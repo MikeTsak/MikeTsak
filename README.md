@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![portfolio](https://img.shields.io/badge/My%20Website-red?style=for-the-badge&logo=html5&logoColor=white)](https://miketsak.gr/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michail-tsakiroglou/)
-[![Twitter](https://img.shields.io/badge/Twitter?style=for-the-badge&logo=html5&logoColor=white)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/miketsak)
 
 
 # 💻 I have worked with:

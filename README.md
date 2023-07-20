@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I'm currently working at AgileAdvisors.gr<br>🎓 I'm currently studying to become a Software Engineer in UniWA
+💼 Working at AgileAdvisors.gr<br>🎓 Studying to become a Software Engineer in UniWA
 
 
 ## 🌐 Socials:
